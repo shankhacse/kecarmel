@@ -1,0 +1,92 @@
+.logo img {
+	width:80%;
+	 /*
+	 -webkit-animation:spin 4s linear infinite;
+    -moz-animation:spin 4s linear infinite;
+    animation:spin 4s linear infinite;
+    */
+}
+
+.kecarmel_title {
+	letter-spacing: 5.5px;
+	color: #95b31d;
+}
+
+.kecarmel_tag_line {
+	letter-spacing: 6px;
+	font-weight: 300;
+	font-size: 11px;
+} 
+
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+
+
+.mainmenu__wrapper .mainmenu__wrap .mainmenu__nav .mainmenu > li {
+
+    align-self: stretch;
+    display: flex;
+    margin: 0 15px;
+
+}
+
+.header--2 .mainmenu__wrapper .mainmenu__wrap .mainmenu__nav .mainmenu > li > a {
+	color: #414141;
+    font-weight: 500;
+    letter-spacing: 1px;
+    font-size: 13px;
+}
+
+
+.border__color {
+  position: relative; }
+  .border__color::before {
+    background: #309FFD none repeat scroll 0 0;
+    bottom: 0;
+    content: "";
+    height: 5px;
+    left: 0;
+    position: absolute;
+    width: 100%; }
+  .border__color.border__color--2::before {
+    background: #74CEDC none repeat scroll 0 0; }
+  .border__color.border__color--3::before {
+    background: #E158CC none repeat scroll 0 0; }
+  .border__color.border__color--4::before {
+    background: #253D97 none repeat scroll 0 0; }
+  .border__color.border__color--5::before {
+    background: #F9223B none repeat scroll 0 0; }
+  .border__color.border__color--6::before {
+    background: #4D4D4D none repeat scroll 0 0; }
+  .border__color.border__color--7::before {
+    background: #01AF6F none repeat scroll 0 0; }
+  .border__color.border__color--8::before {
+    background: #343434 none repeat scroll 0 0; }
+    
+    .funfact span {
+	    color:#FFF !important;
+	    text-shadow: 2px 2px 2px #2d2d2d;
+    }
+    
+    .fact__title h2 {
+	    color:#FFF !important;
+	    text-shadow: 2px 2px 2px #2d2d2d;
+    }
+    
+    .slide {
+	    background: #fbfbfb;
+		padding: 2% 5%;
+		border-radius: 5px;
+		opacity: .8;
+    }
+    .slide__inner > h6 {
+    	color:#ff1b64 !important;
+    }
+    .title-color1 {
+    	color: #7ec00b !important;
+    }
+    .title-color2 {
+    	color: #f637b1 !important;
+    }
+    
