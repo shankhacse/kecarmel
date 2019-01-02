@@ -1,5 +1,7 @@
 
-
+<style type="text/css">
+	margin-top:10px;
+</style>
 
 		<!-- Strat Slider Area -->
 		<div class="slide__carosel owl-carousel owl-theme">
@@ -265,7 +267,7 @@
 		
 			  
 		<!-- Start Welcame Area -->
-		<section class="junior__welcome__area section-padding--lg poss-relative bg-image--21">
+		<section class="junior__welcome__area section-padding--lg poss-relative bg-image--21 principle_block">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
@@ -277,8 +279,8 @@
 						
 					</div>
 				</div>
-				<div class="row jn__welcome__wrapper--2 align-items-center">
-					<div class="col-md-6 col-lg-6 col-sm-6">
+				<div class="row jn__welcome__wrapper--2 align-items-center principle_block">
+					<div class="col-md-5 col-lg-5 col-sm-5">
 						<div class="welcome__juniro__three">
 						
 				
@@ -309,7 +311,7 @@
 		
 
 		<!-- Start our Class Area -->
-		<section class="junior__classes__area section-lg-padding--top section-padding--md--bottom bg--white">
+		<section class="junior__classes__area section-lg-padding--top section-padding--md--bottom bg--white class_area_block">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 col-lg-12 col-sm-12">

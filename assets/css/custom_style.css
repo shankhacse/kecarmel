@@ -89,4 +89,35 @@
     .title-color2 {
     	color: #f637b1 !important;
     }
+
+
+    .principle_block{
+        margin-top: 5px;
+    }
+
+    .class_area_block{
+        padding-top: 0px;
+    }
     
+    .contact__box .single-contact-form input {
+    border: 1px solid #c1ecc3;
+    color: #777777;
+    height: 45px;
+    padding: 0 40px;
+    width: 100%;
+}
+
+.contact__box .single-contact-form textarea {
+    border: 1px solid #c1ecc3;
+    color: #777777;
+    min-height: 200px;
+    padding: 20px;
+    width: 100%;
+}
+
+.section-padding--lg {
+
+   # padding: 150px 0;
+    padding: 10px 0;
+
+}

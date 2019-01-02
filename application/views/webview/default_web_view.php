@@ -124,14 +124,14 @@
 							<div class="mainmenu__wrap">
 								<nav class="mainmenu__nav">
                                     <ul class="mainmenu">
-                                        <li class="drop"><a href="index.html">Home</a>
+                                        <li class="drop"><a href="<?php echo base_url();?>home">Home</a>
                                             
                                         </li>
-                                        <li class="drop"><a href="javascript:;">About</a>
+                                        <li class="drop"><a href="<?php echo base_url();?>aboutus">About</a>
                                             <ul class="dropdown__menu">
-                                                <li><a href="javascript:;">Our History</a></li>
+                                                <li><a href="<?php echo base_url();?>aboutus">Our History</a></li>
                                                 <li><a href="javascript:;">Mission & Moto</a></li>
-                                                <li><a href="javascript:;">General & Specific Norms</a></li>
+                                                <li><a href="<?php echo base_url();?>general_norms">General & Specific Norms</a></li>
                                                 <li><a href="javascript:;">Our Team</a></li>
                                             </ul>
                                         </li>
@@ -153,7 +153,7 @@
                                         <li class="drop"><a href="javascript:;">Infrastructure</a></li>
                                         <li class="drop"><a href="javascript:;">KECSAP</a></li>
                                         <li class="drop"><a href="javascript:;">News</a></li>
-                                        <li><a href="javascript:;">Contact</a></li>
+                                        <li><a href="<?php echo base_url();?>contactus">Contact</a></li>
                                     </ul>
                                 </nav>
 							</div>
@@ -569,6 +569,8 @@
 	<script src="<?php echo base_url();?>assets/js/bootstrap.min.js"></script>
 	<script src="<?php echo base_url();?>assets/js/plugins.js"></script>
 	<script src="<?php echo base_url();?>assets/js/active.js"></script>
+
+
 	<script >
 
 
@@ -631,6 +633,82 @@
 
 
 	</script>
+
+
+	 <!-- Google Map js -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBmGmeot5jcjdaJTvfCmQPfzeoG_pABeWo"></script>
+    <script>
+        // When the window has finished loading create our google map below
+        google.maps.event.addDomListener(window, 'load', init);
+
+        function init() {
+            // Basic options for a simple Google Map
+            // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
+            var mapOptions = {
+                // How zoomed in you want the map to start at (always required)
+                zoom: 12,
+
+                scrollwheel: false,
+
+                // The latitude and longitude to center the map (always required)
+                center: new google.maps.LatLng(23.7286, 90.3854), // New York
+
+                // How you would like to style the map. 
+                // This is where you would paste any style found on Snazzy Maps.
+                 styles:
+				[
+				    {
+				        "featureType": "all",
+				        "elementType": "all",
+				        "stylers": [
+				            {
+				                "invert_lightness": true
+				            },
+				            {
+				                "saturation": 10
+				            },
+				            {
+				                "lightness": 30
+				            },
+				            {
+				                "gamma": 0.5
+				            },
+				            {
+				                "hue": "#435158"
+				            }
+				        ]
+				    },
+				    {
+				        "featureType": "administrative.province",
+				        "elementType": "labels.text.stroke",
+				        "stylers": [
+				            {
+				                "hue": "#ff00d0"
+				            }
+				        ]
+				    }
+				]
+            };
+
+            // Get the HTML DOM element that will contain your map 
+            // We are using a div with id="map" seen below in the <body>
+            var mapElement = document.getElementById('googleMap');
+
+            // Create the Google Map using our element and options defined above
+            var map = new google.maps.Map(mapElement, mapOptions);
+
+            // Let's also add a marker while we're at it
+            var marker = new google.maps.Marker({
+                position: new google.maps.LatLng(23.7286, 90.3854),
+                map: map,
+                title: 'Dcare!',
+                icon: 'images/icons/map.png',
+                animation:google.maps.Animation.BOUNCE
+
+            });
+        }
+    </script>
+
 	
 	
 

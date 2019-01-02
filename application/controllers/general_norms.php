@@ -1,12 +1,11 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class home extends CI_Controller {
+class general_norms extends CI_Controller {
 	public function __construct()
 	{
 	    parent::__construct();
 	//	$this->load->library('session');
-	   
-	   // $this->load->model('webviewmodels/homemodel','homemodel',TRUE);
+	     
 	   
 	}
 	
@@ -18,7 +17,7 @@ class home extends CI_Controller {
 		$header = [];
 		$result = [];
 		
-		$page = "webview/pages/index.php";
+		$page = "webview/pages/general_and_specific_norms.php";
 
 		
 		webview_helper($result, $page, $header, $session);
