@@ -130,29 +130,29 @@
                                         <li class="drop"><a href="<?php echo base_url();?>aboutus">About</a>
                                             <ul class="dropdown__menu">
                                                 <li><a href="<?php echo base_url();?>aboutus">Our History</a></li>
-                                                <li><a href="javascript:;">Mission & Moto</a></li>
+                                                <li><a href="<?php echo base_url();?>mission">Mission & Moto</a></li>
                                                 <li><a href="<?php echo base_url();?>general_norms">General & Specific Norms</a></li>
-                                                <li><a href="javascript:;">Our Team</a></li>
+                                                <li><a href="<?php echo base_url();?>team">Our Team</a></li>
                                             </ul>
                                         </li>
-                                        <li class="drop"><a href="javascript:;">Admission</a>
+                                        <li class="drop"><a href="<?php echo base_url();?>admission">Admission</a>
                                             <ul class="dropdown__menu">
-                                            	<li><a href="javascript:;">Curriculum</a></li>
+                                            	<li><a href="<?php echo base_url();?>curriculum">Curriculum</a></li>
                                                 <li><a href="javascript:;">Procedure</a></li>
-                                                <li><a href="javascript:;">Download Forms</a></li>
-                                                <li><a href="javascript:;">Fee Policy</a></li>
+                                                <li><a href="<?php echo base_url();?>admission">Download Forms</a></li>
+                                                <li><a href="<?php echo base_url();?>fees">Fee Policy</a></li>
                                             </ul>
                                         </li>
                                       
                                         <li class="drop"><a href="javascript:;">Gallery</a>
                                             <ul class="dropdown__menu">
-                                                <li><a href="javascript:;">Photos</a></li>
-                                                <li><a href="javascript:;">Videos</a></li>
+                                                <li><a href="<?php echo base_url();?>gallery">Photos</a></li>
+                                                <li><a href="<?php echo base_url();?>gallery/video">Videos</a></li>
                                             </ul>
                                         </li>
-                                        <li class="drop"><a href="javascript:;">Infrastructure</a></li>
-                                        <li class="drop"><a href="javascript:;">KECSAP</a></li>
-                                        <li class="drop"><a href="javascript:;">News</a></li>
+                                        <li class="drop"><a href="<?php echo base_url();?>infrastructure">Infrastructure</a></li>
+                                        <li class="drop"><a href="<?php echo base_url();?>home#kecsap">KECSAP</a></li>
+                                       <!--  <li class="drop"><a href="javascript:;">News</a></li> -->
                                         <li><a href="<?php echo base_url();?>contactus">Contact</a></li>
                                     </ul>
                                 </nav>
@@ -199,6 +199,7 @@
 		<!-- Footer Area -->
 		<footer id="footer" class="footer-area footer--2">
 			<div class="footer__wrapper bg-image--10 section-padding--lg">
+
 				<div class="container">
 					<div class="row">
 						<!-- Start Single Widget -->
@@ -211,7 +212,8 @@
 										<h2 style="color:#FFF;">K.E. Carmel Aamtala School</h2>
 									</a>
 									 -->
-									<h2 style="color:#FFF;">K.E. Carmel Aamtala School</h2>
+
+									<h2 style="color:#FFF;">K.E. Carmel School Aamtala</h2>
 								</div>
 								<div class="ftr__details">
 									<p>Lorem ipsum dolor sit cnr adipisicing elit, sed do eiusmod teagna aliqua. Lorem ipsudolor sit cnr adi.</p>
@@ -226,7 +228,7 @@
 										</ul>
 									</div>
 									<div class="ft__btm__title">
-										<h4>About Us</h4>
+										<a href="<?php echo base_url();?>aboutus"><h4>About Us</h4></a>
 									</div>
 								</div>
 							</div>
@@ -235,11 +237,11 @@
 						<!-- Start Single Widget -->
 						<div class="col-lg-4 col-md-6 col-sm-12 sm-mt-40">
 							<div class="footer__widget">
-								<h4>Latest News</h4>
+								<!-- <h4>Latest News</h4> -->
 								<div class="footer__innner">
 									<div class="ftr__latest__post">
 										<!-- Start Single -->
-										<div class="single__ftr__post d-flex">
+									<!-- 	<div class="single__ftr__post d-flex">
 											<div class="ftr__post__thumb">
 												<a href="javascript:;">
 													<img src="<?php echo base_url();?>assets/images/blog/post-img/2.jpg" alt="post images">
@@ -249,10 +251,10 @@
 												<h6><a href="javascript:;">Sports Day is near! so lets get ready soon</a></h6>
 												<span><i class="fa fa-calendar"></i>30th Dec, 2017</span>
 											</div>
-										</div>
+										</div> -->
 										<!-- End Single -->
 										<!-- Start Single -->
-										<div class="single__ftr__post d-flex">
+								<!-- 		<div class="single__ftr__post d-flex">
 											<div class="ftr__post__thumb">
 												<a href="javascript:;">
 													<img src="<?php echo base_url();?>assets/images/blog/post-img/3.jpg" alt="post images">
@@ -262,10 +264,10 @@
 												<h6><a href="javascript:;">Sports Day Celebration</a></h6>
 												<span><i class="fa fa-calendar"></i>21th Dec, 2017</span>
 											</div>
-										</div>
+										</div> -->
 										<!-- End Single -->
 										<!-- Start Single -->
-										<div class="single__ftr__post d-flex">
+									<!-- 	<div class="single__ftr__post d-flex">
 											<div class="ftr__post__thumb">
 												<a href="javascript:;">
 													<img src="<?php echo base_url();?>assets/images/blog/post-img/4.jpg" alt="post images">
@@ -275,7 +277,7 @@
 												<h6><a href="javascript:;">Sports Day Celebration</a></h6>
 												<span><i class="fa fa-calendar"></i>10th Dec, 2017</span>
 											</div>
-										</div>
+										</div> -->
 										<!-- End Single -->
 									</div>
 								</div>
@@ -289,13 +291,13 @@
 								<div class="footer__innner">
 									<div class="ftr__latest__post">
 										<ul class="ftr__catrgory">
-											<li><a href="#">Menu 1</a></li>
-											<li><a href="#">Menu 2</a></li>
-											<li><a href="#">Menu 3</a></li>
-											<li><a href="#">Menu 4</a></li>
-											<li><a href="#">Menu 5</a></li>
-											<li><a href="#">Menu 6</a></li>
-											<li><a href="#">Menu 7</a></li>
+											<li><a href="<?php echo base_url();?>aboutus">Our History</a></li>
+											<li><a href="<?php echo base_url();?>mission">Mission & Motto</a></li>
+											<li><a href="<?php echo base_url();?>general_norms">General Norms</a></li>
+											<li><a href="<?php echo base_url();?>team">Our Team</a></li>
+											<li><a href="<?php echo base_url();?>curriculum">Curriculum</a></li>
+											<!-- <li><a href="#">Menu 6</a></li>
+											<li><a href="#">Menu 7</a></li> -->
 										</ul>
 									</div>
 								</div>
@@ -308,18 +310,21 @@
 								<div class="footer__innner">
 									<div class="ftr__latest__post">
 										<ul class="ftr__catrgory">
-											<li><a href="#">Menu 8</a></li>
-											<li><a href="#">Menu 9</a></li>
-											<li><a href="#">Menu 10</a></li>
-											<li><a href="#">Menu 11</a></li>
-											<li><a href="#">Menu 12</a></li>
-											<li><a href="#">Menu 13</a></li>
-											<li><a href="#">Menu 14</a></li>
+											<li><a href="<?php echo base_url();?>fees">Fee Policy</a></li>
+											<li><a href="<?php echo base_url();?>gallery">Gallery</a></li>
+											<li><a href="<?php echo base_url();?>infrastructure">Infrastructure</a></li>
+											<li><a href="<?php echo base_url();?>home#kecsap">Kecsap</a></li>
+											<li><a href="<?php echo base_url();?>contactus">Contact Us</a></li>
+											<!-- <li><a href="#">Menu 13</a></li>
+											<li><a href="#">Menu 14</a></li> -->
 										</ul>
 									</div>
 								</div>
 							</div>
 						</div>
+						
+
+						
 						<!-- End Single Wedget -->
 						<!-- Start Single Widget 
 						<div class="col-lg-3 col-md-6 col-sm-12 md-mt-40 sm-mt-40">
@@ -357,12 +362,12 @@
 						 End Single Widget -->
 					</div>
 				</div>
-				<div class="ft__bottom__images--1 wow flipInX" data-wow-delay="0.6s">
+				<!-- <div class="ft__bottom__images--1 wow flipInX" data-wow-delay="0.6s">
 					<img src="<?php echo base_url();?>assets/images/banner/mid-img/ft.png" alt="footer images">
 				</div>
 				<div class="ft__bottom__images--2 wow fadeInRight" data-wow-delay="0.6s">
 					<img src="<?php echo base_url();?>assets/images/banner/mid-img/ft-2.png" alt="footer images">
-				</div>
+				</div> -->
 			</div>
 			<!-- .Start Footer Contact Area -->
 			<div class="footer__contact__area bg__cat--2" >

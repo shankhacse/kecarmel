@@ -309,9 +309,9 @@
 		</section>
 		<!-- End Welcame Area -->
 		
-
+<br>
 		<!-- Start our Class Area -->
-		<section class="junior__classes__area section-lg-padding--top section-padding--md--bottom bg--white class_area_block">
+		<section class="junior__classes__area section-lg-padding--top section-padding--md--bottom bg--white class_area_block " id="kecsap" >
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 col-lg-12 col-sm-12">
@@ -579,7 +579,7 @@
 					<div class="col-lg-4 col-md-6 col-sm-6 col-12">
 						<div class="gallery wow fadeInUp">
 							<div class="gallery__thumb">
-								<a href="#">
+								<a href="javascript:;">
 									<img src="<?php echo base_url();?>assets/images/gallery/gallery-1/1.jpg" alt="gallery images">
 								</a>
 							</div>
@@ -599,7 +599,7 @@
 					<div class="col-lg-4 col-md-6 col-sm-6 col-12">
 						<div class="gallery wow fadeInUp">
 							<div class="gallery__thumb">
-								<a href="#">
+								<a href="javascript:;">
 									<img src="<?php echo base_url();?>assets/images/gallery/gallery-1/2.jpg" alt="gallery images">
 								</a>
 							</div>
@@ -619,7 +619,7 @@
 					<div class="col-lg-4 col-md-6 col-sm-6 col-12">
 						<div class="gallery wow fadeInUp">
 							<div class="gallery__thumb">
-								<a href="#">
+								<a href="javascript:;">
 									<img src="<?php echo base_url();?>assets/images/gallery/gallery-1/3.jpg" alt="gallery images">
 								</a>
 							</div>
@@ -639,7 +639,7 @@
 					<div class="col-lg-4 col-md-6 col-sm-6 col-12">
 						<div class="gallery wow fadeInUp">
 							<div class="gallery__thumb">
-								<a href="#">
+								<a href="javascript:;">
 									<img src="<?php echo base_url();?>assets/images/gallery/gallery-1/4.jpg" alt="gallery images">
 								</a>
 							</div>
@@ -659,7 +659,7 @@
 					<div class="col-lg-4 col-md-6 col-sm-6 col-12">
 						<div class="gallery wow fadeInUp">
 							<div class="gallery__thumb">
-								<a href="#">
+								<a href="javascript:;">
 									<img src="<?php echo base_url();?>assets/images/gallery/gallery-1/5.jpg" alt="gallery images">
 								</a>
 							</div>
@@ -679,7 +679,7 @@
 					<div class="col-lg-4 col-md-6 col-sm-6 col-12">
 						<div class="gallery wow fadeInUp">
 							<div class="gallery__thumb">
-								<a href="#">
+								<a href="javascript:;">
 									<img src="<?php echo base_url();?>assets/images/gallery/gallery-1/6.jpg" alt="gallery images">
 								</a>
 							</div>
@@ -805,20 +805,20 @@
 							<!-- Start Single Fact -->
                             <div class="funfact">
                                 <div class="fact__icon">
-                                    <img src="<?php echo base_url();?>assets/images/funfact/2.png" alt="flat icon">
+                                    <img src="<?php echo base_url();?>assets/images/funfact/3.png" alt="flat icon">
                                 </div>
                                 <div class="fact__count ">
                                     <span class="count color--2">95</span>
                                 </div>
                                 <div class="fact__title">
-                                    <h2>classroom</h2>
+                                    <h2>Smart Classroom</h2>
                                 </div>
                             </div> 
                             <!-- End Single Fact -->
 							<!-- Start Single Fact -->
                             <div class="funfact">
                                 <div class="fact__icon">
-                                    <img src="<?php echo base_url();?>assets/images/funfact/3.png" alt="flat icon">
+                                    <img src="<?php echo base_url();?>assets/images/funfact/2.png" alt="flat icon">
                                 </div>
                                 <div class="fact__count ">
                                     <span class="count color--3">40</span>
@@ -869,7 +869,7 @@
 								<h6><a href="javascript:;">Todler Art Exhibition</a></h6>
 								<p>Lor error sit volupta item accusantim doloremque laudantium, toe aperiam, eaque ipsa quae ab illoe invenveritatis et quasi architecto beatae viliquam quaerat voluptatem.</p>
 								<ul class="event__time">
-									<li><i class="fa fa-home"></i>Childrens Club, Uttara, Dhaka</li>
+									<li><i class="fa fa-home"></i>Bishnupur,Amtala,West Bengal 743503</li>
 									<li><i class="fa fa-clock-o"></i>10.00 am to 1.00 pm</li>
 								</ul>
 							</div>
@@ -893,7 +893,7 @@
 								<h6><a href="javascript:;">Childrens Day Celebration</a></h6>
 								<p>Lor error sit volupta item accusantim doloremque laudantium, toe aperiam, eaque ipsa quae ab illoe invenveritatis et quasi architecto beatae viliquam quaerat voluptatem.</p>
 								<ul class="event__time">
-									<li><i class="fa fa-home"></i>Childrens Club, Uttara, Dhaka</li>
+									<li><i class="fa fa-home"></i>Bishnupur,Amtala,West Bengal 743503</li>
 									<li><i class="fa fa-clock-o"></i>10.00 am to 1.00 pm</li>
 								</ul>
 							</div>
