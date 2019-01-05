@@ -24,7 +24,7 @@
         <!-- End Bradcaump area -->
 
 	<!-- Start Welcame Area -->
-		<section class="junior__welcome__area welcome--2 bg-image--9 section-padding--lg">
+		<section class="junior__welcome__area welcome--2 bg-image--9 section-padding--lg-custom">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 col-sm-12 col-md-12">
@@ -35,7 +35,7 @@
 					</div>
 				</div>
 				
-<style type="text/css">
+<!-- <style type="text/css">
 	.su-list ul {
   list-style-type: none;
   padding-left: 20px;
@@ -55,7 +55,7 @@
   content: "\f0a1";
   color: #7ec00b;
 }
-</style>					
+</style> -->					
 					<div class="col-md-12 col-lg-12 col-sm-12 md-mt-40 sm-mt-40">
 						<div class="welcome__juniro__inner">
 							<div class="su-list"><p></p>

@@ -13,8 +13,12 @@
 								<!-- Start Single Slide -->
 								<div class="slide">
 									<div class="slide__inner">
-										<h6>Create New Things</h6>
-										<h1>Plant & Nurture, Create Beautiful Heaven World</h1>
+										<!-- <h6>Create New Things</h6>
+										<h1>Plant & Nurture, Create Beautiful Heaven World</h1> -->
+										<h1>Step in as a Student<br>
+         									Leave as a Globally<br>
+        									 Competent Citizen.
+										</h1>
 										<!-- <p>Lorem ipsum dolor sit amet, consectetur adipisic ming elit, sed do ei Excepteur.Tnam Bajki      vntoccaecat cupida proident, sunt in culpa qui dese runt mol .</p>
 										
 										<div class="slider__btn">
@@ -36,8 +40,11 @@
 								<!-- Start Single Slide -->
 								<div class="slide">
 									<div class="slide__inner">
-										<h6>Create New Things</h6>
-										<h1>Play & learn, Create Beautiful Heaven World</h1>
+										<!-- <h6>Create New Things</h6> -->
+										<h1>Step in as a Student<br>
+         									<span>Leave as a Globally</span><br>
+        									 Competent Citizen.
+										</h1>
 										<!-- <p>Lorem ipsum dolor sit amet, consectetur adipisic ming elit, sed do ei Excepteur.Tnam Bajki      vntoccaecat cupida proident, sunt in culpa qui dese runt mol .</p>
 										
 										<div class="slider__btn">
@@ -64,8 +71,18 @@
 					<div class="col-lg-12">
 					
 						<div class="section__title text-center">
-							<h2 class="title__line">Welcome To <span class="title-color1">K.E.</span> <span class="title-color2">Carmel</span></h2>
-							<p>K.E.Carmel School belongs to a CMI Group of Schools in Paschim-Banga.K.E.Carmel School has its motto: "TO PLANT AND NURTURE" and KECS stands for "value laden Kinship, Excellence and Character".</p>
+							<!-- <h2 class="title__line">Welcome To <span class="title-color1">K.E.</span> <span class="title-color2">Carmel</span></h2> -->
+
+							<h2 class="title__line font_georgia_custom2"><span class="title-color3">K.E. Carmel School, Amtala At a Glance </span></h2>
+
+							<!-- <p>K.E.Carmel School belongs to a CMI Group of Schools in Paschim-Banga.K.E.Carmel School has its motto: "TO PLANT AND NURTURE" and KECS stands for "value laden Kinship, Excellence and Character".</p> -->
+							<p>K.E. Carmel School, Amtala is
+							An Institution of Catholic Missionary
+							Fathers of CMI (Carmelites of Mary Immaculate)     
+							Religious Congregration. The Institution is immediately under
+							K.E. Carmel Group of Schools, West Bengal, India.
+							It follows ICSE & ISC Syllabus from classes Nursery to XII
+							</p>
 						</div>
 						
 					</div>
@@ -74,7 +91,7 @@
 					<div class="col-md-12 col-lg-6 col-sm-12">
 						<div class="welcome__juniro__inner">
 							<h3><span class="title-color2">360°</span> <span class="title-color1">Virtual</span> Tour</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisic ming elit, sed do ei Excepteur sint occaecat cupida proident, sunt in culpa qui dese runt mol anim id est lai aborum. Sed ut perspiciatis unde omnis iste natus error svolupt accu doloremque laudantium, totam rem.</p>
+							<p>K.E. Carmel School, Amtala campus has been thoughtfully created with young learners in mind, providing an environment that truly supports each child’s learning. The belief that education is a shared responsibility is an important part of our philosophy. Learning occurs through engagement with other students, with adults and with the larger community. It takes a village to raise a child. Our campus is unique with abundant greenery and with most modern facilities for academic, sports, games, arts, and other informative zones.</p>
 							<!-- 
 							<div class="wel__btn">
 								<a class="dcare__btn" href="about-us.html">Read More</a>
@@ -104,11 +121,11 @@
 							</div>
 							<div class="service__details">
 								<h6><a href="javascript:;">Computer Lab</a></h6>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
-								<!-- 
+								<p>Internet enable computer lab with most modern computers to meet the students’ information </p>
+								
 								<div class="service__btn">
-									<a class="dcare__btn--2" href="#">Read More</a>
-								</div> -->
+									<a class="dcare__btn--2" href="<?php echo base_url();?>facility#computer_lab">Read More</a>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -121,11 +138,11 @@
 							</div>
 							<div class="service__details">
 								<h6><a href="javascript:;">Library</a></h6>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
-								<!-- 
+								<p>Fr. John Britto Memorial library of K.E. Carmel School, Amtala aims at providing  </p>
+								
 								<div class="service__btn">
-									<a class="dcare__btn--2" href="#">Read More</a>
-								</div> -->
+									<a class="dcare__btn--2" href="<?php echo base_url();?>facility#library_fac">Read More</a>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -138,11 +155,11 @@
 							</div>
 							<div class="service__details">
 								<h6><a href="javascript:;">Music & Dance</a></h6>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
-								<!-- 
+								<p>Music, Dance and Arts, as the essence of all that is beautiful in life occupies a special </p>
+								
 								<div class="service__btn">
-									<a class="dcare__btn--2" href="#">Read More</a>
-								</div> -->
+									<a class="dcare__btn--2" href="<?php echo base_url();?>facility#music_fac">Read More</a>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -155,11 +172,11 @@
 							</div>
 							<div class="service__details">
 								<h6><a href="javascript:;">Smart Class</a></h6>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
-								<!-- 
+								<p>Our Smart Class Rooms bring the most modern technology into the class room learning </p>
+								 
 								<div class="service__btn">
-									<a class="dcare__btn--2" href="#">Read More</a>
-								</div> -->
+									<a class="dcare__btn--2" href="<?php echo base_url();?>facility#smart_class_fac">Read More</a>
+								</div> 
 							</div>
 						</div>
 					</div>
@@ -176,12 +193,12 @@
 								<img src="<?php echo base_url();?>assets/images/service/facility/Indoorgames.png" alt="icon images">
 							</div>
 							<div class="service__details">
-								<h6><a href="javascript:;">Indoor Games</a></h6>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
-								<!-- 
+								<h6><a href="javascript:;">Sports & Games  </a></h6>
+								<p>To nurture the mental and physical strength of students, the School has a huge facility </p>
+								 
 								<div class="service__btn">
-									<a class="dcare__btn--2" href="#">Read More</a>
-								</div> -->
+									<a class="dcare__btn--2" href="<?php echo base_url();?>facility#sports_fac">Read More</a>
+								</div> 
 							</div>
 						</div>
 					</div>
@@ -194,11 +211,11 @@
 							</div>
 							<div class="service__details">
 								<h6><a href="javascript:;">CCTV</a></h6>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
-								<!-- 
+								<p>The school is under CCTV camera surveillance, which is being used to provide  </p>
+								
 								<div class="service__btn">
-									<a class="dcare__btn--2" href="#">Read More</a>
-								</div> -->
+									<a class="dcare__btn--2" href="<?php echo base_url();?>facility#cctv_fac">Read More</a>
+								</div> 
 							</div>
 						</div>
 					</div>
@@ -211,11 +228,11 @@
 							</div>
 							<div class="service__details">
 								<h6><a href="javascript:;">Lab Facility</a></h6>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
-								<!-- 
+								<p>Every student is an enthusiastic scientist in the making, and they spend part of their School </p>
+								
 								<div class="service__btn">
-									<a class="dcare__btn--2" href="#">Read More</a>
-								</div> -->
+									<a class="dcare__btn--2" href="<?php echo base_url();?>facility#lab_fac">Read More</a>
+								</div> 
 							</div>
 						</div>
 					</div>
@@ -224,15 +241,15 @@
 					<div class="col-lg-3 col-md-6 col-sm-6 col-12 md-mt-60 sm-mt-60">
 						<div class="service bg--white border__color border__color--8 wow fadeInUp" data-wow-delay="0.65s">
 							<div class="service__icon">
-								<img src="<?php echo base_url();?>assets/images/service/facility/physo.png" alt="icon images">
+								<img src="<?php echo base_url();?>assets/images/service/facility/washroom.png" alt="icon images">
 							</div>
 							<div class="service__details">
-								<h6><a href="javascript:;">Psychology</a></h6>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
-								<!-- 
+								<h6><a href="javascript:;">Hygienic Washrooms</a></h6>
+								<p>Maintaining super hygienic washrooms<br>&nbsp;</p>
+								
 								<div class="service__btn">
-									<a class="dcare__btn--2" href="#">Read More</a>
-								</div> -->
+									<a class="dcare__btn--2" href="<?php echo base_url();?>facility#washroom_fac">Read More</a>
+								</div> 
 							</div>
 						</div>
 					</div>
@@ -252,10 +269,10 @@
 						<div class="jnr__call__action__wrap d-flex flex-wrap flex-md-nowrap flex-lg-nowrap justify-content-between align-items-center">
 							<div class="callto__action__inner">
 								<h2>How To Admit Your Child In A class ?</h2>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor </p>
+								<p>&nbsp; </p>
 							</div>
 							<div class="callto__action__btn">
-								<a class="dcare__btn btn__white" href="javascript:;">Contact Now</a>
+								<a class="dcare__btn btn__white" href="<?php echo base_url();?>contactus">Contact Now</a>
 							</div>
 						</div>
 					</div>
@@ -309,179 +326,7 @@
 		</section>
 		<!-- End Welcame Area -->
 		
-<br>
-		<!-- Start our Class Area -->
-		<section class="junior__classes__area section-lg-padding--top section-padding--md--bottom bg--white class_area_block " id="kecsap" >
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12 col-lg-12 col-sm-12">
-						<div class="section__title text-center">
-							<h2 class="title__line"><span class="title-color1">K. E. Carmel</span> Social Action <span class="title-color2">Programme</span></h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunte magna aliquaet, consectetempora incidunt</p>
-						</div>
-					</div>
-				</div>
-				<div class="row classes__wrap activation__one owl-carousel owl-theme clearfix mt--40">
-					<!-- Start Single Classes -->
-					<div class="col-lg-4 col-sm-6">
-						<div class="junior__classes">
-							<div class="classes__thumb">
-								<a href="javascript:;">
-									<img src="<?php echo base_url();?>assets/images/class/md-img/1.jpg" alt="class images">
-								</a>
-							</div>
-							<div class="classes__inner">
-								<div class="classes__icon">
-									<img src="<?php echo base_url();?>assets/images/class/star/1.png" alt="starr images">
-									<span><i class="fa fa-pagelines"></i></span>
-								</div>
-								<div class="class__details">
-									<h4><a href="javascript:;">KECSAP 1</a></h4>
-									<p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-									<!-- 
-									<ul class="class__time">
-									 	<li>Infant Care : 0.8 - 2.5 Years</li>
-										<li>Class Size : 8</li>
-									</ul>
-									 -->
-									<!-- 
-									<div class="class__btn">
-										<a class="dcare__btn--2" href="javascript:;">Admission Now</a>
-									</div>
-									 -->
-								</div>
-							</div>
-						</div>
-					</div>
-					<!-- End Single Classes -->
-					<!-- Start Single Classes -->
-					<div class="col-lg-4 col-sm-6">
-						<div class="junior__classes">
-							<div class="classes__thumb">
-								<a href="javascript:;">
-									<img src="<?php echo base_url();?>assets/images/class/md-img/2.jpg" alt="class images">
-								</a>
-							</div>
-							<div class="classes__inner">
-								<div class="classes__icon">
-									<img src="<?php echo base_url();?>assets/images/class/star/1.png" alt="starr images">
-									<span><i class="fa fa-envira"></i></span>
-								</div>
-								<div class="class__details">
-									<h4><a href="javascript:;">KECSAP 2</a></h4>
-									<p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-									<!-- 
-									<ul class="class__time">
-										<li>Infant Care : 0.8 - 2.5 Years</li>
-										<li>Class Size : 8</li>
-									</ul> -->
-									<!-- 
-									<div class="class__btn">
-										<a class="dcare__btn--2" href="javascript:;">Admission Now</a>
-									</div>
-									 -->
-								</div>
-							</div>
-						</div>
-					</div>
-					<!-- End Single Classes -->
-					<!-- Start Single Classes -->
-					<div class="col-lg-4 col-sm-6">
-						<div class="junior__classes">
-							<div class="classes__thumb">
-								<a href="javascript:;">
-									<img src="<?php echo base_url();?>assets/images/class/md-img/3.jpg" alt="class images">
-								</a>
-							</div>
-							<div class="classes__inner">
-								<div class="classes__icon">
-									<img src="<?php echo base_url();?>assets/images/class/star/1.png" alt="starr images">
-									<span><i class="fa fa-tint"></i></span>
-								</div>
-								<div class="class__details">
-									<h4><a href="javascript:;">KECSAP 3</a></h4>
-									 <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-									 <!-- 
-									<ul class="class__time">
-										<li>Infant Care : 0.8 - 2.5 Years</li>
-										<li>Class Size : 8</li>
-									</ul>  -->
-									<!-- 
-									<div class="class__btn">
-										<a class="dcare__btn--2" href="javascript:;">Admission Now</a>
-									</div>
-									 -->
-								</div>
-							</div>
-						</div>
-					</div>
-					<!-- End Single Classes -->
-					<!-- Start Single Classes -->
-					<div class="col-lg-4 col-sm-6">
-						<div class="junior__classes">
-							<div class="classes__thumb">
-								<a href="javascript:;">
-									<img src="<?php echo base_url();?>assets/images/class/md-img/3.jpg" alt="class images">
-								</a>
-							</div>
-							<div class="classes__inner">
-								<div class="classes__icon">
-									<img src="<?php echo base_url();?>assets/images/class/star/1.png" alt="starr images">
-									<span><i class="fa fa-tint"></i></span>
-								</div>
-								<div class="class__details">
-									<h4><a href="javascript:;">KECSAP 4</a></h4>
-									<p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-									<!-- 
-									<ul class="class__time">
-										<li>Infant Care : 0.8 - 2.5 Years</li>
-										<li>Class Size : 8</li>
-									</ul>  -->
-									<!-- 
-									<div class="class__btn">
-										<a class="dcare__btn--2" href="javascript:;">Admission Now</a>
-									</div>
-									 -->
-								</div>
-							</div>
-						</div>
-					</div>
-					<!-- End Single Classes -->
-					<!-- Start Single Classes -->
-					<div class="col-lg-4 col-sm-6">
-						<div class="junior__classes">
-							<div class="classes__thumb">
-								<a href="javascript:;">
-									<img src="<?php echo base_url();?>assets/images/class/md-img/1.jpg" alt="class images">
-								</a>
-							</div>
-							<div class="classes__inner">
-								<div class="classes__icon">
-									<img src="<?php echo base_url();?>assets/images/class/star/1.png" alt="starr images">
-									<span><i class="fa fa-leaf"></i></span>
-								</div>
-								<div class="class__details">
-									<h4><a href="javascript:;">KECSAP 5</a></h4>
-									<p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-									<!-- 
-									<ul class="class__time">
-										<li>Infant Care : 0.8 - 2.5 Years</li>
-										<li>Class Size : 8</li>
-									</ul>  -->
-									<!-- 
-									<div class="class__btn">
-										<a class="dcare__btn--2" href="javascript:;">Admission Now</a>
-									</div>
-									 -->
-								</div>
-							</div>
-						</div>
-					</div>
-					<!-- End Single Classes -->
-				</div>
-			</div>
-		</section>
-		<!-- End our Class Area -->
+
 		
 		<!-- Start Testimonial Area -->
 		<section class="junior__testimonial__area bg-image--2 section-padding--lg">
@@ -490,7 +335,7 @@
 				<div class="row">
 					<div class="col-md-12 col-lg-12 col-sm-12">
 						<div class="section__title text-center" style="margin-top: -82px;">
-							<h2 class="title__line"><span class="title-color2">Notice</span> Board</h2>
+							<h2 class="title__line"><span class="title-color2">Flash </span>News</h2>
 							
 						</div>
 					</div>
@@ -508,7 +353,10 @@
 												<img src="<?php echo base_url();?>assets/images/testimonial/icon/1.png" alt="icon images">
 											</div>
 											<div class="client__details">
-												<p>Lorem ipsum dolor t dolore magna aliqua. Ut enim ad minim veniam, quis nostexercitation ullamco laboris nisimollit anim id est lsunt explicabo. Nemo enim ipsam voluptatem quia voluptas quia voluptas sit aspernatd.</p>
+												<p style="text-shadow: 8px 6px 8px #272525;">Admissions open for classes Nursery to viii (ICSE Syllabus)<br><br>
+
+												Admissions open to Classes xi and xii (ISC Syllabus)<br>&nbsp;
+												</p>
 												
 												<div class="client__info">
 													<h6>&nbsp;</h6>
@@ -527,7 +375,11 @@
 												<img src="<?php echo base_url();?>assets/images/testimonial/icon/1.png" alt="icon images">
 											</div>
 											<div class="client__details">
-												<p>Kohinur ipsum dolor t dolore magna aliqua. Ut enim ad minim veniam, quis nostexercitation ullamco laboris nisimollit anim id est lsunt explicabo. Nemo enim ipsam voluptatem quia voluptas quia voluptas sit aspernatd.</p>
+												<p style="text-shadow: 8px 6px 8px #272525;">Entrance coaching for classes XI and XII<br>
+													JEE/NEET, AIIMS (Engg. &Med.)<br>
+													In Association with<br>
+													PATHFINDER<br>
+													</p>
 												
 												<div class="client__info">
 													<h6>&nbsp;</h6>
@@ -538,24 +390,7 @@
 									</div>
 									<!-- End Single Testimonial -->
 								</div>
-								<div class="testimonial__bg">
-									<!-- Start Single Testimonial -->
-									<div class="testimonial text-center">
-										<div class="testimonial__inner">
-											<div class="test__icon">
-												<img src="<?php echo base_url();?>assets/images/testimonial/icon/1.png" alt="icon images">
-											</div>
-											<div class="client__details">
-												<p>Najnin ipsum dolor t dolore magna aliqua. Ut enim ad minim veniam, quis nostexercitation ullamco laboris nisimollit anim id est lsunt explicabo. Nemo enim ipsam voluptatem quia voluptas quia voluptas sit aspernatd.</p>
-												<div class="client__info">
-													<h6>&nbsp;</h6>
-													<span>&nbsp;</span> 
-												</div>
-											</div>
-										</div>
-									</div>
-									<!-- End Single Testimonial -->
-								</div>
+							
 							</div>
 						</div>
 					</div>
@@ -570,7 +405,7 @@
 					<div class="col-lg-12 col-sm-12 col-md-12">
 						<div class="section__title text-center">
 							<h2 class="title__line"><span class="title-color1">Our</span> Gallery</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunte magna aliquaet, consectetempora incidunt</p>
+							<p>&nbsp;</p>
 						</div>
 					</div>
 				</div>
@@ -854,7 +689,7 @@
 					<div class="col-lg-12 col-sm-12 col-md-12">
 						<div class="section__title text-center">
 							<h2 class="title__line"><span class="title-color1">Up</span> Coming <span class="title-color2">Events</span></h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunte magna aliquaet, consectetempora incidunt</p>
+							<p>&nbsp;</p>
 						</div>
 					</div>
 				</div>

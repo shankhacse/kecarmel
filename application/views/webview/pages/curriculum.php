@@ -9,7 +9,7 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="bradcaump__inner text-center">
-                                <h2 class="bradcaump-title">Curriculum</h2>
+                                <h2 class="bradcaump-title">&nbsp;</h2>
                                 <nav class="bradcaump-inner">
                                   <a class="breadcrumb-item" href="<?php echo base_url();?>home">Home</a>
                                   <span class="brd-separetor"><img src="<?php echo base_url();?>/assets/images/icons/brad.png" alt="separator images"></span>
@@ -24,7 +24,7 @@
         <!-- End Bradcaump area -->
 
 	<!-- Start Welcame Area -->
-		<section class="junior__welcome__area welcome--2 bg-image--9 section-padding--lg">
+		<section class="junior__welcome__area welcome--2 bg-image--9 section-padding--lg-custom">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 col-sm-12 col-md-12">

@@ -7,15 +7,19 @@
     */
 }
 
+
+
 .kecarmel_title {
 	letter-spacing: 5.5px;
 	color: #95b31d;
+  
 }
 
 .kecarmel_tag_line {
 	letter-spacing: 6px;
 	font-weight: 300;
 	font-size: 11px;
+
 } 
 
 @keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
@@ -80,7 +84,7 @@
 		border-radius: 5px;
 		opacity: .8;
     }
-    .slide__inner > h6 {
+    .slide__inner > h1 {
     	color:#ff1b64 !important;
     }
     .title-color1 {
@@ -89,6 +93,10 @@
     .title-color2 {
     	color: #f637b1 !important;
     }
+    .title-color3{
+      color: #4b4b98 !important;
+    }
+
 
 
     .principle_block{
@@ -115,12 +123,12 @@
     width: 100%;
 }
 
-.section-padding--lg {
+/*.section-padding--lg {
 
-   # padding: 150px 0;
+    padding: 150px 0;
     padding: 10px 0;
 
-}
+}*/
 
 
 .welcome--2 .jnr__Welcome__thumb::before {
@@ -186,7 +194,7 @@
   left: 0;
   font-family: FontAwesome;
   content: "\f0a1";
-  color: #7ec00b;
+  color: #27bf39;
 }
 
 .li_mission li:before {
@@ -245,4 +253,72 @@
 
 }
 
+
+#logo-container img {
+width: 100%;
+height:auto;
+}
+
+
+.font_georgia_custom{
+  font-family: Georgia;
+  font-size: 24px;
+}
+
+.font_georgia_custom2{
+  font-family: Georgia !important;
+  font-size: 33px !important;;
+}
+
+.ht__bradcaump__container .bradcaump__inner {
+   
+    height: 66px;
+   
+}
+
+
+.school_group{
+
+  font-size:18px;
+
+}
+
+.managing_committe{
+  font-size:18px;
+}
+
+.section-padding--lg-custom {
+    padding: 80px 0;
+}
+
+.facility{
+  background: white!important;
+}
+
+.kecsap_span{
+font-weight: bold;
+text-decoration: underline;
+
+}
+
+.keksap_div{
+font-size: 18px;
+color: #513d3d;
+}
+
+.p_justift{
+  text-align: justify;
+}
+
+.gallery__menu button {
+   
+    font-size: 15px;
+    
+}
+
+.ht__bradcaump__container .bradcaump__inner .breadcrumb-item {
+    
+    font-size: 12px;
+    
+}
 

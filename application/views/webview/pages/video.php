@@ -22,7 +22,7 @@
         </div>
         <!-- End Bradcaump area -->
 		<!-- Start Our Gallery Area -->
-		<div class="junior__gallery__area gallery-page-one gallery__masonry__activation gallery--3 bg--white section-padding--lg">
+		<div class="junior__gallery__area gallery-page-one gallery__masonry__activation gallery--3 bg--white section-padding--lg-custom">
 			<div class="container">
 				<div class="row galler__wrap masonry__wrap">
 					<!-- Start Single Gallery -->

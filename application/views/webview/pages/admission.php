@@ -7,7 +7,7 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="bradcaump__inner text-center">
-                                <h2 class="bradcaump-title">Admission</h2>
+                                <h2 class="bradcaump-title">&nbsp;</h2>
                                 <nav class="bradcaump-inner">
                                   <a class="breadcrumb-item" href="<?php echo base_url();?>home">Home</a>
                                   <span class="brd-separetor"><img src="<?php echo base_url();?>/assets/images/icons/brad.png" alt="separator images"></span>
@@ -25,7 +25,7 @@
 
 
 		<!-- Start Welcame Area -->
-		<section class="junior__welcome__area welcome--2 bg-image--9 section-padding--lg">
+		<section class="junior__welcome__area welcome--2 bg-image--9 section-padding--lg-custom">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 col-sm-12 col-md-12">
@@ -44,10 +44,10 @@
 
 							
 							<p>
-								<a href="<?php echo base_url();?>/upload/admission/admission_form.pdf" download>
+								<a href="<?php echo base_url();?>upload/admission/admission_form.pdf" download>
 								<button type="button" class="btn btn-success">Download Admission Form(other than XI) &nbsp;&nbsp;</button></a></p>	
 							<div class="wel__btn">
-								<p><a href="<?php echo base_url();?>/upload/admission/admission_form_xi.pdf" download>
+								<p><a href="<?php echo base_url();?>upload/admission/admission_form_xi.pdf" download>
 									<button type="button" class="btn btn-warning">Download Admission Form XI</button></a></p>
 							</div>
 						</div>

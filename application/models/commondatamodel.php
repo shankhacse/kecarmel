@@ -1,6 +1,6 @@
 <?php if (!defined('BASEPATH')) exit('No direct script access allowed');
 
-class commondatamodel extends CI_Model{
+class Commondatamodel extends CI_Model{
 	
 	public function insertSingleTableData($table,$data){
             $lastinsert_id = 0;

@@ -24,7 +24,7 @@
         <!-- End Bradcaump area -->
 
 	<!-- Start Welcame Area -->
-		<section class="junior__welcome__area welcome--2 bg-image--9 section-padding--lg">
+		<section class="junior__welcome__area welcome--2 bg-image--9 section-padding--lg-custom">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 col-sm-12 col-md-12">

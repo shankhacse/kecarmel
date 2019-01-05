@@ -22,12 +22,12 @@
         <!-- End Bradcaump area -->
 	
 		<!-- Start Welcame Area -->
-		<section class="junior__welcome__area welcome--2 bg-image--9 section-padding--lg">
+		<section class="junior__welcome__area welcome--2 bg-image--9 section-padding--lg-custom">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 col-sm-12 col-md-12">
 						<div class="section__title text-center">
-							<h2 class="title__line">Welcome To <span class="title-color1">K.E.</span> <span class="title-color2">Carmel</span></h2>
+							<h2 class="title__line font_georgia_custom2">Welcome To <span class="title-color1">K.E.</span> <span class="title-color2">Carmel</span></h2>
 							
 						</div>
 					</div>
@@ -41,7 +41,7 @@
 					</div>
 					<div class="col-md-12 col-lg-6 col-sm-12 md-mt-40 sm-mt-40">
 						<div class="welcome__juniro__inner">
-							<h3>Welcome to <span class="theme-color">O</span><span>u</span>r School</h3>
+							<!-- <h3>Welcome to <span class="theme-color">O</span><span>u</span>r School</h3> -->
 							<p>K.E.Carmel School belongs to a CMI Group of Schools in Paschim-Banga. It draws inspiration from St. Kuriakose Elias Chavara (1805-71), a visionary and social reformer of divine calibre, and the founder of two religious congregations among the St.Thomas Catholics in India, namely, the CMI (Carmelites of Mary Immaculate) for men and the CMC (Congregation of Mother of Carmel) for women. After his example, we have started more than 650 schools, 30 colleges and 8 Teachers Training Colleges in India(like Christ College, Bangalore, Jagdalpur, Irinjalakuda, Bhopal, KE College Mannanam, SH College) for educating socially useful citizens with a strong conviction that each one is a precious gift of God.</p>
 							<div class="wel__btn">
 								
@@ -55,7 +55,7 @@
 
 
 		<!-- Start Welcame Area -->
-		<section class="junior__welcome__area welcome--2 bg-image--9 section-padding--lg">
+		<section class="junior__welcome__area welcome--2 bg-image--9 section-padding--lg-custom">
 			<div class="container">
 				
 				<div class="row jn__welcome__wrapper align-items-center">
@@ -82,7 +82,7 @@
 
 
 		<!-- Start Welcame Area -->
-		<section class="junior__welcome__area welcome--2 bg-image--9 section-padding--lg">
+		<section class="junior__welcome__area welcome--2 bg-image--9 section-padding--lg-custom">
 			<div class="container">
 			
 				<div class="row jn__welcome__wrapper align-items-center">
@@ -107,7 +107,7 @@
 		<!-- End Welcame Area -->
 
 		<!-- Start Welcame Area -->
-		<section class="junior__welcome__area welcome--2 bg-image--9 section-padding--lg">
+		<section class="junior__welcome__area welcome--2 bg-image--9 section-padding--lg-custom">
 			<div class="container">
 				
 				<div class="row jn__welcome__wrapper align-items-center">

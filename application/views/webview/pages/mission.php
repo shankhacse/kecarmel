@@ -22,7 +22,7 @@
         <!-- End Bradcaump area -->
 	
 		<!-- Start Choose Us Area -->
-		<section class="dcare__choose__us__area section-padding--lg bg--white">
+		<section class="dcare__choose__us__area section-padding--lg-custom bg--white">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 col-sm-12 col-md-12">
@@ -176,7 +176,7 @@ character is formed, strength of mind increased, intellect expanded and to help 
 
 
 		<!-- Start Choose Us Area -->
-		<section class="dcare__choose__us__area section-padding--lg bg--white mooto_section">
+		<section class="dcare__choose__us__area  bg--white mooto_section">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 col-sm-12 col-md-12">
@@ -188,6 +188,32 @@ character is formed, strength of mind increased, intellect expanded and to help 
 <p id="young_mind_p">Education is a process in which teachers, parents and students work together to have the delicate seed of divine wisdom planted in the young minds and to nurture its spontaneous growth by providing an appropriate atmosphere of concentration, dedication and hard work.</p>
 
 <p id="young_mind_p">To educate is not merely to develop and improve an individual but to influence the family and society of which one is a member. It is his or her divine call to work towards the creation of a New Heaven and Earth by spreading happiness, peace, joy and love around. We develop Hands to help, Lips to smile and Words to cheer up others..</p>
+
+						</div>
+					</div>
+				</div>
+			
+				
+			
+			</div>
+		</section>
+		<!-- End Choose Us Area -->
+
+
+
+
+
+		<!-- Start Choose Us Area -->
+		<section class="dcare__choose__us__area section-padding--lg-custom bg--white mooto_section">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12 col-sm-12 col-md-12">
+						<div class="section__title text-center">
+								<h2 class="title__line">Our <span class="title-color1">Vision</span> </h2>
+							<p >
+<h4>Our Vision is imbibed from the inspiration and the educational vision of St. Kuriakose Elias Chavara(1805-71), our Heavenly Patron and the Founder of Carmelite of Mary Immaculate (C.M.I) Congregation. We commit ourselves in forming our students to be Globally Competent Citizens. We nurture the little minds to become intellectually accomplished, spiritually mature, morally upright, psychologically integrated, physically sound, socially acceptable and God loving individuals, who will be the champions in the cause of justice, love truth and peace.</h4></p><br><br>
+
+
 
 						</div>
 					</div>
