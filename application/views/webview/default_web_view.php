@@ -452,13 +452,13 @@
 
 										<ul class="dacre__social__link--2 d-flex justify-content-start">
 
-											<li class="facebook"><a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a></li>
+											<li class="facebook"><a href="https://www.facebook.com/kecarmelschool.amtala.5"><i class="fa fa-facebook"></i></a></li>
 
-											<li class="twitter"><a href="https://twitter.com/"><i class="fa fa-twitter"></i></a></li>
+											<li class="twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
 
-											<li class="vimeo"><a href="https://vimeo.com/"><i class="fa fa-vimeo"></i></a></li>
+											<li class="vimeo"><a href="#"><i class="fa fa-vimeo"></i></a></li>
 
-											<li class="pinterest"><a href="https://www.pinterest.com/"><i class="fa fa-pinterest-p"></i></a></li>
+											<li class="pinterest"><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
 
 										</ul>
 
