@@ -442,7 +442,7 @@
 
 								<div class="ftr__details">
 
-									<p>Lorem ipsum dolor sit cnr adipisicing elit, sed do eiusmod teagna aliqua. Lorem ipsudolor sit cnr adi.</p>
+									<p>&nbsp;</p>
 
 								</div>
 
