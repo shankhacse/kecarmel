@@ -1,12 +1,56 @@
 .logo img {
 	width:80%;
+  
 	 /*
 	 -webkit-animation:spin 4s linear infinite;
     -moz-animation:spin 4s linear infinite;
     animation:spin 4s linear infinite;
     */
 }
+/*@media 
+  (min-width: 600px) and (max-width: 992px),
+  (min-width: 600px),
+  (-webkit-min-device-pixel-ratio: 2), 
+  (min-resolution: 192dpi) {
+  .logo img {
+  width:80%;
 
+}
+}
+*/
+
+/* Extra small devices (phones, up to 480px) */
+@media screen and (max-width: 767px) {
+  .logo img {
+     width:16%;
+    }
+    h2, .h2 { font-size: 26px!important;}
+}
+}
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991px) {
+    .logo img {
+      width:16%;
+
+    }
+    h2, .h2 { font-size: 26px!important;}
+}
+/* tablets/desktops and up ----------- */
+@media (min-width: 992px) and (max-width: 1199px) {
+  .logo img {
+      width:80%;
+    }
+    h2, .h2 { font-size: 26px!important;}
+}
+}
+/* large desktops and up ----------- */
+@media screen and (min-width: 1200px) {
+  .logo img {
+      width:80%;
+    }
+    h2, .h2 { font-size: 26px!important;}
+}
+}
 
 
 .kecarmel_title {
@@ -270,6 +314,10 @@ height:auto;
   font-size: 33px !important;;
 }
 
+.font_georgia_custom_logo{
+  font-family: Georgia;
+  font-size: 12px;
+}
 .ht__bradcaump__container .bradcaump__inner {
    
     height: 66px;

@@ -12,7 +12,7 @@
 
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-<title>KE Carmel || To Plant And Nurture</title>
+<title>K.E. Carmel || To Plant And Nurture</title>
 
 <meta name="description" content="">
 
@@ -158,7 +158,7 @@
 
 								<ul class="top__address d-flex justify-content-start align-items-center flex-wrap flex-lg-nowrap flex-md-nowrap">
 
-									<li><span>E-mail : </span><a href="#">kecarmel@gmail.com </a></li>
+									<li><span>E-mail : </span><a href="#">info@kecarmelamtala.com </a></li>
 
 									<li><span>Helpline : </span><a href="#">+91 9051973905 , 033 2470 7957</a></li>
 
@@ -207,13 +207,13 @@
 
 						<div class="col-sm-4 col-md-6 col-lg-6 order-1 order-lg-1">
 
-							<div class="logo">
+							<div class="logo img-responsive">
 
 								<a href="<?php echo base_url();?>home" style="width:30%;">
 
 									<!-- <img src="images/logo/2.png" alt="logo images"> -->
 
-									<img src="<?php echo base_url();?>assets/images/logo/kecarmel_logo.png" alt="logo images" />
+									<img src="<?php echo base_url();?>assets/images/logo/kecarmel_logo.png" alt="logo images" class="img-responsive" />
 
 								</a>
 
@@ -352,9 +352,14 @@
 
                     	<div class="logo">
 
-                    		<a href="index.html"><img src="<?php echo base_url();?>assets/images/logo/kecarmel_logo.png" alt="logo images" id="logo-container" /></a>
+                    		<a href="<?php echo base_url();?>home"><img src="<?php echo base_url();?>assets/images/logo/kecarmel_logo.png" alt="logo images" id="logo-container" />
+                    			<b class="font_georgia_custom_logo">K. E. CARMEL SCHOOL , AMTALA<b>
+                    		</a>
 
+                    		
                     	</div>
+
+
 
                     	<!-- 
 
@@ -428,7 +433,7 @@
 
 										 <img src="images/logo/junior.png" alt="logo images">
 
-										<h2 style="color:#FFF;">K.E. Carmel Aamtala School</h2>
+										<h2 style="color:#FFF;">K.E. Carmel Amtala School</h2>
 
 									</a>
 
@@ -436,7 +441,7 @@
 
 
 
-									<h2 style="color:#FFF;">K.E. Carmel School Aamtala</h2>
+									<h2 style="color:#FFF;">K.E. Carmel School Amtala</h2>
 
 								</div>
 
@@ -806,9 +811,9 @@
 
 									<div class="ft__contact__details">
 
-										<p><a href="#">kecarmel@gmail.com</a></p>
+										<p><a href="#">info@kecarmelamtala.com</a></p>
 
-										<p><a href="#">kecarmel@gmail.com</a></p>
+										<p><a href="#">contact@kecarmelamtala.com</a></p>
 
 									</div>
 

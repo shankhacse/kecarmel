@@ -65,7 +65,7 @@
 		
 
 		<!-- Start Welcame Area -->
-		<section class="junior__welcome__area section-padding--md bg-pngimage--2">
+		<section class="junior__welcome__area section-padding--md ">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
@@ -87,6 +87,109 @@
 						
 					</div>
 				</div>
+			</div>
+		</section>
+
+		<!-- Start Testimonial Area -->
+		<section class="junior__testimonial__area bg-image--2 section-padding--lg">
+			<div class="container">
+			
+				<div class="row">
+					<div class="col-md-12 col-lg-12 col-sm-12">
+						<div class="section__title text-center" style="margin-top: -82px;">
+							<h2 class="title__line"><span class="title-color2">Flash </span>News</h2>
+							
+						</div>
+					</div>
+				</div>
+			
+				<div class="row">
+					<div class="offset-lg-2 col-lg-8 col-md-12 col-sm-12">
+						<div class="testimonial__container">
+							<div class="tes__activation--1 owl-carousel owl-theme">
+
+								<div class="testimonial__bg">
+									<!-- Start Single Testimonial -->
+									<div class="testimonial text-center">
+										<div class="testimonial__inner">
+											<div class="test__icon">
+												<img src="<?php echo base_url();?>assets/images/testimonial/icon/1.png" alt="icon images">
+											</div>
+											<div class="client__details">
+												<p style="text-shadow: 8px 6px 8px #272525;">Admissions open for classes<br> Nursery to VIII (ICSE Syllabus)<br><br>
+
+												<br>&nbsp;
+												</p>
+												
+												<div class="client__info">
+													<h6>&nbsp;</h6>
+													<span>&nbsp;</span> 
+												</div>  
+											</div>
+										</div>
+									</div>
+									<!-- End Single Testimonial -->
+								</div>
+
+									<div class="testimonial__bg">
+									<!-- Start Single Testimonial -->
+									<div class="testimonial text-center">
+										<div class="testimonial__inner">
+											<div class="test__icon">
+												<img src="<?php echo base_url();?>assets/images/testimonial/icon/1.png" alt="icon images">
+											</div>
+											<div class="client__details">
+												<p style="text-shadow: 8px 6px 8px #272525;">Admissions open for class <br>XI:SCIENCE , COMMERCE AND HUMANITIES<br><br>
+
+												<br>&nbsp;
+												</p>
+												
+												<div class="client__info">
+													<h6>&nbsp;</h6>
+													<span>&nbsp;</span> 
+												</div>  
+											</div>
+										</div>
+									</div>
+									<!-- End Single Testimonial -->
+								</div>
+
+								<div class="testimonial__bg">
+									<!-- Start Single Testimonial -->
+									<div class="testimonial text-center">
+										<div class="testimonial__inner">
+											<div class="test__icon">
+												<img src="<?php echo base_url();?>assets/images/testimonial/icon/1.png" alt="icon images">
+											</div>
+											<div class="client__details">
+												<p style="text-shadow: 8px 6px 8px #272525;">Entrance coaching for classes XI and XII<br>
+													JEE/NEET, AIIMS (Engg. &Med.)<br>
+													In Association with<br>
+													PATHFINDER<br>
+													</p>
+												
+												<div class="client__info">
+													<h6>&nbsp;</h6>
+													<span>&nbsp;</span> 
+												</div>  
+											</div>
+										</div>
+									</div>
+									<!-- End Single Testimonial -->
+								</div>
+							
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Testimonial Area -->
+
+
+		<section class="junior__welcome__area section-padding--md bg-pngimage--2">
+			<div class="container">
+				<div class="row">
 				<div class="row jn__welcome__wrapper align-items-center">
 					<div class="col-md-12 col-lg-6 col-sm-12">
 						<div class="welcome__juniro__inner">
@@ -105,6 +208,7 @@
 						</div>
 					</div>
 				</div>
+			</div>
 			</div>
 		</section>
 		<!-- End Welcame Area -->
@@ -212,7 +316,7 @@
 							<div class="service__details">
 								<h6><a href="javascript:;">CCTV</a></h6>
 								<p>The school is under CCTV camera surveillance, which is being used to provide  </p>
-								
+								<br>
 								<div class="service__btn">
 									<a class="dcare__btn--2" href="<?php echo base_url();?>facility#cctv_fac">Read More</a>
 								</div> 
@@ -246,7 +350,7 @@
 							<div class="service__details">
 								<h6><a href="javascript:;">Hygienic Washrooms</a></h6>
 								<p>Maintaining super hygienic washrooms<br>&nbsp;</p>
-								
+								<br>
 								<div class="service__btn">
 									<a class="dcare__btn--2" href="<?php echo base_url();?>facility#washroom_fac">Read More</a>
 								</div> 
@@ -289,7 +393,7 @@
 				<div class="row">
 					<div class="col-lg-12">
 						<div class="section__title text-center">
-							<h2 class="title__line" >Principle's <span class="title-color1">Desk</span></h2>
+							<h2 class="title__line" >Principal's <span class="title-color1">Desk</span></h2>
 						</div>
 						
 						
@@ -298,15 +402,15 @@
 				</div>
 				<div class="row jn__welcome__wrapper--2 align-items-center principle_block">
 					<div class="col-md-5 col-lg-5 col-sm-5">
-						<div class="welcome__juniro__three">
+						<div class="welcome__juniro__three" id="testID">
 						
 				
 							
-							<p>here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+							<p>An unabating ardour, manoeuvre and zeal pervade the ambience of K.E. Carmel School, Amtala. As I walk down the corridors of the school everyday, I enjoy the harmony of the tittle-tattle of fervent minds, the thud of the dancers, the melody of the ensemble, the yell of the vanquishing athletes. At K.E.C.S. we appraise self-reliance, artistry and innovation of the students and endeavour to foster them. Our undisputed solicitude ensures the overall development of the pupils. This equip them to thrive their morale, cognisance and assertiveness.</p><p> Sharing ideas, scrutinizing situations and executing them pompously are vital skills which are revered here. We give a lot of importance to make discipline a core value, encourage students to develop a sense of responsibility through a well planned academic schedule, House system, various Inter School and Intra School competitions and Sports activities. Our students and staff enjoy our school campus that is surrounded by "beauty, charm and adventure." We aim to strengthen the potential which is innate in every individual but awaiting expression. Our main motto is to groom our students to become confident, articulate and enlightened young citizens, well equipped to face the challenges of the rapidly changing world.</p>
 							
-							<div class="wel__btn">
+							<!-- <div class="wel__btn">
 								<a class="dcare__btn btn__white" href="javascript:;">Read More</a>
-							</div>
+							</div> -->
 						</div>
 					</div>
 				
@@ -328,76 +432,7 @@
 		
 
 		
-		<!-- Start Testimonial Area -->
-		<section class="junior__testimonial__area bg-image--2 section-padding--lg">
-			<div class="container">
-			
-				<div class="row">
-					<div class="col-md-12 col-lg-12 col-sm-12">
-						<div class="section__title text-center" style="margin-top: -82px;">
-							<h2 class="title__line"><span class="title-color2">Flash </span>News</h2>
-							
-						</div>
-					</div>
-				</div>
-			
-				<div class="row">
-					<div class="offset-lg-2 col-lg-8 col-md-12 col-sm-12">
-						<div class="testimonial__container">
-							<div class="tes__activation--1 owl-carousel owl-theme">
-								<div class="testimonial__bg">
-									<!-- Start Single Testimonial -->
-									<div class="testimonial text-center">
-										<div class="testimonial__inner">
-											<div class="test__icon">
-												<img src="<?php echo base_url();?>assets/images/testimonial/icon/1.png" alt="icon images">
-											</div>
-											<div class="client__details">
-												<p style="text-shadow: 8px 6px 8px #272525;">Admissions open for classes Nursery to viii (ICSE Syllabus)<br><br>
-
-												Admissions open to Classes xi and xii (ISC Syllabus)<br>&nbsp;
-												</p>
-												
-												<div class="client__info">
-													<h6>&nbsp;</h6>
-													<span>&nbsp;</span> 
-												</div>  
-											</div>
-										</div>
-									</div>
-									<!-- End Single Testimonial -->
-								</div>
-								<div class="testimonial__bg">
-									<!-- Start Single Testimonial -->
-									<div class="testimonial text-center">
-										<div class="testimonial__inner">
-											<div class="test__icon">
-												<img src="<?php echo base_url();?>assets/images/testimonial/icon/1.png" alt="icon images">
-											</div>
-											<div class="client__details">
-												<p style="text-shadow: 8px 6px 8px #272525;">Entrance coaching for classes XI and XII<br>
-													JEE/NEET, AIIMS (Engg. &Med.)<br>
-													In Association with<br>
-													PATHFINDER<br>
-													</p>
-												
-												<div class="client__info">
-													<h6>&nbsp;</h6>
-													<span>&nbsp;</span> 
-												</div>  
-											</div>
-										</div>
-									</div>
-									<!-- End Single Testimonial -->
-								</div>
-							
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		<!-- End Testimonial Area -->
+		
 		<!-- Start Our Gallery Area -->
 		<section class="junior__gallery__area bg--white section-padding--lg">
 			<div class="container">
@@ -424,7 +459,7 @@
 										<li><a href="<?php echo base_url();?>assets/images/gallery/big-img/1.jpg" data-lightbox="grportimg" data-title="My caption"><i class="fa fa-search"></i></a></li>
 										<!--  <li><a href="gallery-details.html"><i class="fa fa-link"></i></a></li> -->
 									</ul>
-									<h4 class="gallery__title"><a href="#">Annual Days</a></h4>
+									<h4 class="gallery__title"><a href="#">25<sup>th</sup> Annual Day</a></h4>
 								</div>
 							</div>
 						</div>	
@@ -484,7 +519,7 @@
 										<li><a href="<?php echo base_url();?>assets/images/gallery/big-img/4.jpg" data-lightbox="grportimg" data-title="My caption"><i class="fa fa-search"></i></a></li>
 										<!--  <li><a href="gallery-details.html"><i class="fa fa-link"></i></a></li> -->
 									</ul>
-									<h4 class="gallery__title"><a href="#">Annual Days</a></h4>
+									<h4 class="gallery__title"><a href="#">25<sup>th</sup> Annual Day</a></h4>
 								</div>
 							</div>
 						</div>	
@@ -504,7 +539,7 @@
 										<li><a href="<?php echo base_url();?>assets/images/gallery/big-img/5.jpg" data-lightbox="grportimg" data-title="My caption"><i class="fa fa-search"></i></a></li>
 										<!--  <li><a href="gallery-details.html"><i class="fa fa-link"></i></a></li> -->
 									</ul>
-									<h4 class="gallery__title"><a href="#">Annual Days</a></h4>
+									<h4 class="gallery__title"><a href="#">25<sup>th</sup> Annual Day</a></h4>
 								</div>
 							</div>
 						</div>	
@@ -630,7 +665,7 @@
                                     <img src="<?php echo base_url();?>assets/images/funfact/1.png" alt="flat icon">
                                 </div>
                                 <div class="fact__count ">
-                                    <span class="count">95</span>
+                                    <span class="count">1810</span>
                                 </div>
                                 <div class="fact__title">
                                     <h2>Student</h2>
@@ -643,7 +678,7 @@
                                     <img src="<?php echo base_url();?>assets/images/funfact/3.png" alt="flat icon">
                                 </div>
                                 <div class="fact__count ">
-                                    <span class="count color--2">95</span>
+                                    <span class="count color--2">15</span>
                                 </div>
                                 <div class="fact__title">
                                     <h2>Smart Classroom</h2>
@@ -656,7 +691,7 @@
                                     <img src="<?php echo base_url();?>assets/images/funfact/2.png" alt="flat icon">
                                 </div>
                                 <div class="fact__count ">
-                                    <span class="count color--3">40</span>
+                                    <span class="count color--3">60</span>
                                 </div>
                                 <div class="fact__title">
                                     <h2>Teacher</h2>
@@ -669,7 +704,7 @@
                                     <img src="<?php echo base_url();?>assets/images/funfact/4.png" alt="flat icon">
                                 </div>
                                 <div class="fact__count">
-                                    <span class="count color--4">10</span>
+                                    <span class="count color--4">17</span>
                                 </div>
                                 <div class="fact__title">
                                     <h2>School Bus</h2>
@@ -682,7 +717,7 @@
 			</div>
 		</section>
 		<!-- End Counter Up Area -->
-		<!-- Start upcomming Area -->
+		<!-- Start upcomming Area 
 		<section class="junior__upcomming__area section-padding--lg bg--white">
 			<div class="container">
 				<div class="row">
@@ -692,9 +727,9 @@
 							<p>&nbsp;</p>
 						</div>
 					</div>
-				</div>
+				</div> -->
 				<div class="row upcomming__wrap mt--40">
-					<!-- Start Single Upcomming Event -->
+					<!-- Start Single Upcomming Event 
 					<div class="col-lg-6 col-md-12 col-sm-12">
 						<div class="upcomming__event">
 							<div class="upcomming__thumb">
@@ -717,8 +752,9 @@
 							</div>
 						</div>
 					</div>
-					<!-- End Single Upcomming Event -->
-					<!-- Start Single Upcomming Event -->
+					 End Single Upcomming Event -->
+					
+					<!-- Start Single Upcomming Event 
 					<div class="col-lg-6 col-md-12 col-sm-12">
 						<div class="upcomming__event">
 							<div class="upcomming__thumb">
@@ -741,10 +777,14 @@
 							</div>
 						</div>
 					</div>
-					<!-- End Single Upcomming Event -->
+					 End Single Upcomming Event -->
 				</div>
 			</div>
 		</section>
+
+
+
+
 		<!-- End upcomming Area -->
 		<!-- Start Subscribe Area --
 		<section class="bcare__subscribe subscribe--1">
